@@ -1,12 +1,12 @@
 ```json
-{
-  "name": "Utkarsh Shukla",
-  "description": "I'm a full-stack engineer who specializes in front-end development.",
-  "keywords": ["software development", "opensource", "innovation"],
-  "programming_languages": ["Python", "JavaScript", "C++"],
-  "tools_and_frameworks": ["React", "Node.js", "Django"],
-  "email": "utkarshshukla707@gmail.com",
-}
+	{
+	  "name": "Utkarsh Shukla",
+	  "description": "I'm a full-stack engineer who specializes in front-end development.",
+	  "keywords": ["software development", "opensource", "programming"],
+	  "programming_languages": ["Python", "JavaScript", "C++"],
+	  "tools_and_frameworks": ["React", "Node.js", "Django"],
+	  "email": "utkarshshukla707@gmail.com",
+	}
 ```
 <!-- <p align="center">
 	<img src="https://user-images.githubusercontent.com/61664827/231243763-7462694a-4695-45a6-a756-a5752cfebd04.png" />
