@@ -1,3 +1,6 @@
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/61664827/231243763-7462694a-4695-45a6-a756-a5752cfebd04.png" />
+</p>
 <!-- <h4 align="center"> -->
 <!-- <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=spin&fill=black&textfill=F7DF1E&"> -->
 <!-- <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=00599C&"> -->
@@ -35,5 +38,4 @@
 		align="center"
 		src="https://github-profile-trophy.vercel.app/?username=utkar-sh-ukla&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
 	</a>
-</a>
 </p>
