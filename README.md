@@ -2,7 +2,7 @@
 	{
 	  "name": "Utkarsh Shukla",
 	  "description": "I'm a full-stack engineer who specializes in front-end development.",
-	  "keywords": ["software development", "opensource", "programming"],
+	  "keywords": ["software development", "opensource", "innovation"],
 	  "programming_languages": ["Python", "JavaScript", "C++"],
 	  "tools_and_frameworks": ["React", "Node.js", "Django"],
 	  "email": "utkarshshukla707@gmail.com",
