@@ -1,10 +1,10 @@
 ```json
 	{
 	  "name": "Utkarsh Shukla",
-	  "description": "I'm a full-stack engineer who specializes in front-end development.",
-	  "keywords": ["software development", "opensource", "innovation"],
-	  "programming_languages": ["Python", "JavaScript", "C++"],
-	  "tools_and_frameworks": ["React", "Node.js", "Django"],
+	  "description": "Experienced Full-Stack Developer with a passion for building dynamic, scalable web applications using the MERN stack.",
+	  "keywords": ["software-development", "opensource", "mathematics"],
+	  "programming_languages": ["JavaScript", "Python", "C++", "Java"],
+	  "tools_and_frameworks": ["React", "Next", "Node.js", "Django"],
 	  "email": "utkarshshukla707@gmail.com",
 	}
 ```
