@@ -1,13 +1,3 @@
-```json
-	{
-	  "name": "Utkarsh Shukla",
-	  "description": "Experienced Full-Stack Developer with a passion for building web applications using the MERN stack.",
-	  "keywords": ["software-development", "opensource", "mathematics"],
-	  "programming_languages": ["JavaScript", "Python", "C++", "Java"],
-	  "tools_and_frameworks": ["React", "Next", "Node.js", "Django"],
-	  "email": "utkarshshukla707@gmail.com",
-	}
-```
 <!-- <p align="center">
 	<img src="https://user-images.githubusercontent.com/61664827/231243763-7462694a-4695-45a6-a756-a5752cfebd04.png" />
 </p> -->
