@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Utkarsh - Full Stack Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Utkarsh Shukla - Full Stack Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0D1117">
@@ -57,7 +57,7 @@
     </path>
 
     <!-- name -->
-    <text x="500" y="125" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-weight="700" font-size="76" fill="url(#name)" filter="url(#glow)" letter-spacing="2">Utkarsh
+    <text x="500" y="125" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-weight="700" font-size="66" fill="url(#name)" filter="url(#glow)" letter-spacing="2">Utkarsh Shukla
       <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
     </text>
 
