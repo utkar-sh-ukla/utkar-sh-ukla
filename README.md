@@ -84,11 +84,9 @@ func main() {
 
 ## 📫 Let's connect
 
-<!-- Replace YOUR_HANDLE with your real handles, or delete the badges you don't use -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/-utkarsh-shukla-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Utkarsh_369"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
 </p>
 
 <p align="center">
