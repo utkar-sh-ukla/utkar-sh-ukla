@@ -1,6 +1,6 @@
-<!-- Animated header banner -->
+<!-- Animated header (self-hosted SVG) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:302b63,100:e05397&height=230&section=header&text=Utkarsh&fontSize=72&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full%20Stack%20Engineer%20%7C%20Backend%20%7C%20APIs%20%7C%20Systems&descSize=20&descAlignY=58" alt="Utkarsh - Full Stack Engineer" />
+  <img src="https://raw.githubusercontent.com/utkar-sh-ukla/utkar-sh-ukla/master/assets/header.svg" alt="Utkarsh - Full Stack Engineer" width="100%" />
 </p>
 
 <!-- Typing animation -->
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=flat" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e05397,100:302b63&height=3&section=header" width="100%" />
+<img src="https://raw.githubusercontent.com/utkar-sh-ukla/utkar-sh-ukla/master/assets/divider.svg" width="100%" alt="" />
 
 ## 👨‍💻 About me
 
@@ -59,7 +59,7 @@ func main() {
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,aws,docker,git,linux,github,postman,vscode&perline=10" width="400" alt="Data, cloud and tools" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:e05397&height=3&section=header" width="100%" />
+<img src="https://raw.githubusercontent.com/utkar-sh-ukla/utkar-sh-ukla/master/assets/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub at a glance
 
