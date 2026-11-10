@@ -61,26 +61,15 @@ func main() {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:e05397&height=3&section=header" width="100%" />
 
-## 📊 GitHub stats
+## 📊 GitHub at a glance
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=utkar-sh-ukla&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkar-sh-ukla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Futkar-sh-ukla&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=302b63" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Futkar-sh-ukla&query=%24.followers&label=Followers&style=for-the-badge&logo=github&color=e05397" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Futkar-sh-ukla&query=%24.following&label=Following&style=for-the-badge&logo=github&color=302b63" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=utkar-sh-ukla&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-</p>
-
-## 📈 Contribution activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkar-sh-ukla&bg_color=0D1117&color=e05397&line=302b63&point=ffffff&area=true&area_color=e05397&hide_border=true" alt="Contribution graph" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=utkar-sh-ukla&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trophies" />
 </p>
 
 ## 🐍 Contribution snake
