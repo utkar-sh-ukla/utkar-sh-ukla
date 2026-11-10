@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkar-sh-ukla&label=Profile+views&color=e05397&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/utkar-sh-ukla?label=Followers&style=for-the-badge&logo=github&color=302b63" />
-  <img src="https://img.shields.io/badge/Bengaluru-India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=utkar-sh-ukla&label=Profile+views&color=e05397&style=flat" />
+  <img src="https://img.shields.io/github/followers/utkar-sh-ukla?label=Followers&style=flat&logo=github&color=302b63" />
+  <img src="https://img.shields.io/badge/Bengaluru-India-orange?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=flat" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e05397,100:302b63&height=3&section=header" width="100%" />
@@ -54,9 +54,9 @@ func main() {
 ## 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,py,ts,js,react,nextjs,html,css,tailwind&perline=10" alt="Languages and frontend" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,py,ts,js,react,nextjs,html,css,tailwind&perline=10" width="400" alt="Languages and frontend" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,aws,docker,git,linux,github,postman,vscode&perline=10" alt="Data, cloud and tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,aws,docker,git,linux,github,postman,vscode&perline=10" width="400" alt="Data, cloud and tools" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:e05397&height=3&section=header" width="100%" />
@@ -64,9 +64,9 @@ func main() {
 ## 📊 GitHub at a glance
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Futkar-sh-ukla&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=302b63" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Futkar-sh-ukla&query=%24.followers&label=Followers&style=for-the-badge&logo=github&color=e05397" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Futkar-sh-ukla&query=%24.following&label=Following&style=for-the-badge&logo=github&color=302b63" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Futkar-sh-ukla&query=%24.public_repos&label=Public%20repos&style=flat&logo=github&color=302b63" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Futkar-sh-ukla&query=%24.followers&label=Followers&style=flat&logo=github&color=e05397" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Futkar-sh-ukla&query=%24.following&label=Following&style=flat&logo=github&color=302b63" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=utkar-sh-ukla&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
@@ -86,9 +86,9 @@ func main() {
 
 <!-- Replace YOUR_HANDLE with your real handles, or delete the badges you don't use -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
