@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Utkarsh - Full Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117">
+        <animate attributeName="stop-color" values="#0D1117;#1a1446;#0D1117" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.55" stop-color="#302b63">
+        <animate attributeName="stop-color" values="#302b63;#5b2a86;#302b63" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#e05397">
+        <animate attributeName="stop-color" values="#e05397;#7b4bd6;#e05397" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffc2e0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="typed">
+      <rect x="214" y="150" height="40" width="0">
+        <animate attributeName="width" values="0;572;572;0" keyTimes="0;0.45;0.85;1" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="card"><rect width="1000" height="260" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+
+    <!-- floating glow particles -->
+    <g fill="#ffffff">
+      <circle cx="90" cy="200" r="3" opacity="0.5"><animate attributeName="cy" values="220;40;220" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="9s" repeatCount="indefinite"/></circle>
+      <circle cx="240" cy="230" r="2" opacity="0.5"><animate attributeName="cy" values="240;60;240" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="420" cy="210" r="4" opacity="0.4"><animate attributeName="cy" values="230;30;230" dur="11s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="11s" repeatCount="indefinite"/></circle>
+      <circle cx="610" cy="235" r="2.5" opacity="0.5"><animate attributeName="cy" values="245;50;245" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="8s" repeatCount="indefinite"/></circle>
+      <circle cx="780" cy="215" r="3.5" opacity="0.4"><animate attributeName="cy" values="235;35;235" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="10s" repeatCount="indefinite"/></circle>
+      <circle cx="920" cy="225" r="2" opacity="0.5"><animate attributeName="cy" values="240;70;240" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="6s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- drifting code symbols -->
+    <g font-family="monospace" font-size="26" fill="#ffffff" opacity="0.14">
+      <text x="70" y="70">{ }<animateTransform attributeName="transform" type="translate" values="0,0;14,-10;0,0" dur="6s" repeatCount="indefinite"/></text>
+      <text x="860" y="90">&lt;/&gt;<animateTransform attributeName="transform" type="translate" values="0,0;-16,10;0,0" dur="7s" repeatCount="indefinite"/></text>
+      <text x="130" y="205">( )<animateTransform attributeName="transform" type="translate" values="0,0;10,8;0,0" dur="8s" repeatCount="indefinite"/></text>
+      <text x="800" y="200">[ ]<animateTransform attributeName="transform" type="translate" values="0,0;-12,-8;0,0" dur="5s" repeatCount="indefinite"/></text>
+    </g>
+
+    <!-- waves -->
+    <path d="M0 215 Q 125 185 250 215 T 500 215 T 750 215 T 1000 215 T 1250 215 T 1500 215 V260 H0 Z" fill="#ffffff" opacity="0.07">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-500,0" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 232 Q 125 208 250 232 T 500 232 T 750 232 T 1000 232 T 1250 232 T 1500 232 V260 H0 Z" fill="#0D1117" opacity="0.45">
+      <animateTransform attributeName="transform" type="translate" values="-500,0;0,0" dur="9s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- name -->
+    <text x="500" y="125" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-weight="700" font-size="76" fill="url(#name)" filter="url(#glow)" letter-spacing="2">Utkarsh
+      <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
+    </text>
+
+    <!-- typed tagline -->
+    <g clip-path="url(#typed)">
+      <text x="500" y="178" text-anchor="middle" font-family="Courier New, monospace" font-size="22" fill="#ffffff" opacity="0.95">Full Stack Engineer · Backend · APIs · Systems</text>
+    </g>
+    <rect x="214" y="156" width="3" height="28" fill="#ffffff">
+      <animate attributeName="x" values="214;786;786;214" keyTimes="0;0.45;0.85;1" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
