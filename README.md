@@ -21,13 +21,6 @@
 
 ## 👨‍💻 About me
 
-I'm a full stack engineer who likes turning messy problems into clean, reliable systems, from Go and Node.js services to SQL-backed APIs and React + TypeScript interfaces. I care about performance, readable code and shipping things that hold up in production.
-
-- 🛠️ **What I do:** design and build backends, APIs and the interfaces on top of them
-- 🎓 **Open source:** Google Summer of Code '22 contributor with PostgreSQL
-- 🌱 **Exploring:** distributed systems and system design
-- 💬 **Ask me about:** APIs, databases, query performance and React
-
 ```go
 package main
 
