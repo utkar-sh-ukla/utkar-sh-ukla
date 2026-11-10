@@ -20,8 +20,8 @@
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <clipPath id="typed">
-      <rect x="214" y="150" height="40" width="0">
-        <animate attributeName="width" values="0;572;572;0" keyTimes="0;0.45;0.85;1" dur="7s" repeatCount="indefinite"/>
+      <rect x="188" y="150" height="40" width="0">
+        <animate attributeName="width" values="0;624;624;0" keyTimes="0;0.45;0.85;1" dur="7s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <clipPath id="card"><rect width="1000" height="260" rx="18"/></clipPath>
@@ -65,8 +65,8 @@
     <g clip-path="url(#typed)">
       <text x="500" y="178" text-anchor="middle" font-family="Courier New, monospace" font-size="22" fill="#ffffff" opacity="0.95">Full Stack Engineer · Backend · APIs · Systems</text>
     </g>
-    <rect x="214" y="156" width="3" height="28" fill="#ffffff">
-      <animate attributeName="x" values="214;786;786;214" keyTimes="0;0.45;0.85;1" dur="7s" repeatCount="indefinite"/>
+    <rect x="188" y="156" width="3" height="28" fill="#ffffff">
+      <animate attributeName="x" values="188;812;812;188" keyTimes="0;0.45;0.85;1" dur="7s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
     </rect>
   </g>
