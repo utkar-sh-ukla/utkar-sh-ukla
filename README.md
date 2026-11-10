@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/utkar-sh-ukla">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E05397&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Utkarsh+%F0%9F%91%8B;Full+stack+engineer+from+Bengaluru;I+build+fast%2C+reliable+backends;React+%2B+TypeScript+on+the+front;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E05397&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+Utkarsh+Shukla+%F0%9F%91%8B;Full+stack+engineer+from+Bengaluru;I+build+fast%2C+reliable+backends;React+%2B+TypeScript+on+the+front;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,6 +20,13 @@
 <img src="https://raw.githubusercontent.com/utkar-sh-ukla/utkar-sh-ukla/master/assets/divider.svg" width="100%" alt="" />
 
 ## 👨‍💻 About me
+
+I'm a full stack engineer who likes turning messy problems into clean, reliable systems, from Go and Node.js services to SQL-backed APIs and React + TypeScript interfaces. I care about performance, readable code and shipping things that hold up in production.
+
+- 🛠️ **What I do:** design and build backends, APIs and the interfaces on top of them
+- 🎓 **Open source:** Google Summer of Code '22 contributor with PostgreSQL
+- 🌱 **Exploring:** distributed systems and system design
+- 💬 **Ask me about:** APIs, databases, query performance and React
 
 ```go
 package main
@@ -37,7 +44,7 @@ type Developer struct {
 
 func main() {
 	me := Developer{
-		Name:       "Utkarsh",
+		Name:       "Utkarsh Shukla",
 		Role:       "Full Stack Engineer",
 		Location:   "Bengaluru, India",
 		Languages:  []string{"Go", "Node.js", "Python", "TypeScript"},
